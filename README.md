@@ -1,9 +1,10 @@
-### Hi there 👋
+👋 Hi, I’m @Nanang Wibowo
 
-<!--
-**nanang472/nanang472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- [Twitter](https://twitter.com/nanangwibow0)
+- [Discord](https://discordapp.com/users/843179143856521217)
+- [Telegram](https://t.me/SaujanaOK](https://t.me/nanangwibowo)
+- [Github](https://github.com/nanang472/)
+- [linktree](https://linktr.ee/Nanang_Wibowo)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
