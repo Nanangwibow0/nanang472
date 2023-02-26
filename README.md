@@ -5,7 +5,9 @@
 
 [Discord](https://discordapp.com/users/843179143856521217)
 
-[Telegram](https://t.me/nanangwibowo) [Github](https://github.com/nanang472/)
+[Telegram](https://t.me/nanangwibowo)
+
+[Github](https://github.com/nanang472/)
 
 [linktree](https://linktr.ee/Nanang_Wibowo)
 
